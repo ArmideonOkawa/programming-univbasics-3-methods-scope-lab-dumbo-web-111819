@@ -13,3 +13,6 @@ def link
   words = "It's Dangerous To Go Alone! Take This."
   puts words
 end
+
+def any_phrase(phrase)
+  pu
